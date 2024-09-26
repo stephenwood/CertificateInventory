@@ -1,0 +1,565 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\src\\CertificateInventory\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3DC9F0B7-61D6-4538-9E51-CA7DC7E98778}|CertificateInventory\\CertificateInventory.csproj|c:\\src\\certificateinventory\\certificateinventory\\repositories\\certificaterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3DC9F0B7-61D6-4538-9E51-CA7DC7E98778}|CertificateInventory\\CertificateInventory.csproj|solutionrelative:certificateinventory\\repositories\\certificaterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3DC9F0B7-61D6-4538-9E51-CA7DC7E98778}|CertificateInventory\\CertificateInventory.csproj|c:\\src\\certificateinventory\\certificateinventory\\repositories\\icertificaterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3DC9F0B7-61D6-4538-9E51-CA7DC7E98778}|CertificateInventory\\CertificateInventory.csproj|solutionrelative:certificateinventory\\repositories\\icertificaterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3DC9F0B7-61D6-4538-9E51-CA7DC7E98778}|CertificateInventory\\CertificateInventory.csproj|c:\\src\\certificateinventory\\certificateinventory\\repositories\\inventorydbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3DC9F0B7-61D6-4538-9E51-CA7DC7E98778}|CertificateInventory\\CertificateInventory.csproj|solutionrelative:certificateinventory\\repositories\\inventorydbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3DC9F0B7-61D6-4538-9E51-CA7DC7E98778}|CertificateInventory\\CertificateInventory.csproj|c:\\src\\certificateinventory\\certificateinventory\\cloudservicescertificateinventory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3DC9F0B7-61D6-4538-9E51-CA7DC7E98778}|CertificateInventory\\CertificateInventory.csproj|solutionrelative:certificateinventory\\cloudservicescertificateinventory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3DC9F0B7-61D6-4538-9E51-CA7DC7E98778}|CertificateInventory\\CertificateInventory.csproj|c:\\src\\certificateinventory\\certificateinventory\\repositories\\models\\vaultcertificate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3DC9F0B7-61D6-4538-9E51-CA7DC7E98778}|CertificateInventory\\CertificateInventory.csproj|solutionrelative:certificateinventory\\repositories\\models\\vaultcertificate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3DC9F0B7-61D6-4538-9E51-CA7DC7E98778}|CertificateInventory\\CertificateInventory.csproj|c:\\src\\certificateinventory\\certificateinventory\\repositories\\models\\sourcevault.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3DC9F0B7-61D6-4538-9E51-CA7DC7E98778}|CertificateInventory\\CertificateInventory.csproj|solutionrelative:certificateinventory\\repositories\\models\\sourcevault.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3DC9F0B7-61D6-4538-9E51-CA7DC7E98778}|CertificateInventory\\CertificateInventory.csproj|c:\\src\\certificateinventory\\certificateinventory\\repositories\\models\\secretversionattributecontainer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3DC9F0B7-61D6-4538-9E51-CA7DC7E98778}|CertificateInventory\\CertificateInventory.csproj|solutionrelative:certificateinventory\\repositories\\models\\secretversionattributecontainer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3DC9F0B7-61D6-4538-9E51-CA7DC7E98778}|CertificateInventory\\CertificateInventory.csproj|c:\\src\\certificateinventory\\certificateinventory\\repositories\\models\\secretversion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3DC9F0B7-61D6-4538-9E51-CA7DC7E98778}|CertificateInventory\\CertificateInventory.csproj|solutionrelative:certificateinventory\\repositories\\models\\secretversion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3DC9F0B7-61D6-4538-9E51-CA7DC7E98778}|CertificateInventory\\CertificateInventory.csproj|c:\\src\\certificateinventory\\certificateinventory\\repositories\\models\\secretmetadata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3DC9F0B7-61D6-4538-9E51-CA7DC7E98778}|CertificateInventory\\CertificateInventory.csproj|solutionrelative:certificateinventory\\repositories\\models\\secretmetadata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3DC9F0B7-61D6-4538-9E51-CA7DC7E98778}|CertificateInventory\\CertificateInventory.csproj|c:\\src\\certificateinventory\\certificateinventory\\repositories\\models\\secretcontainer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3DC9F0B7-61D6-4538-9E51-CA7DC7E98778}|CertificateInventory\\CertificateInventory.csproj|solutionrelative:certificateinventory\\repositories\\models\\secretcontainer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3DC9F0B7-61D6-4538-9E51-CA7DC7E98778}|CertificateInventory\\CertificateInventory.csproj|c:\\src\\certificateinventory\\certificateinventory\\repositories\\models\\secretattributes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3DC9F0B7-61D6-4538-9E51-CA7DC7E98778}|CertificateInventory\\CertificateInventory.csproj|solutionrelative:certificateinventory\\repositories\\models\\secretattributes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3DC9F0B7-61D6-4538-9E51-CA7DC7E98778}|CertificateInventory\\CertificateInventory.csproj|c:\\src\\certificateinventory\\certificateinventory\\repositories\\models\\keyvaultcollection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3DC9F0B7-61D6-4538-9E51-CA7DC7E98778}|CertificateInventory\\CertificateInventory.csproj|solutionrelative:certificateinventory\\repositories\\models\\keyvaultcollection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3DC9F0B7-61D6-4538-9E51-CA7DC7E98778}|CertificateInventory\\CertificateInventory.csproj|c:\\src\\certificateinventory\\certificateinventory\\repositories\\models\\keyvault.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3DC9F0B7-61D6-4538-9E51-CA7DC7E98778}|CertificateInventory\\CertificateInventory.csproj|solutionrelative:certificateinventory\\repositories\\models\\keyvault.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3DC9F0B7-61D6-4538-9E51-CA7DC7E98778}|CertificateInventory\\CertificateInventory.csproj|c:\\src\\certificateinventory\\certificateinventory\\repositories\\models\\cloudservicecollection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3DC9F0B7-61D6-4538-9E51-CA7DC7E98778}|CertificateInventory\\CertificateInventory.csproj|solutionrelative:certificateinventory\\repositories\\models\\cloudservicecollection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3DC9F0B7-61D6-4538-9E51-CA7DC7E98778}|CertificateInventory\\CertificateInventory.csproj|c:\\src\\certificateinventory\\certificateinventory\\repositories\\models\\cloudservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3DC9F0B7-61D6-4538-9E51-CA7DC7E98778}|CertificateInventory\\CertificateInventory.csproj|solutionrelative:certificateinventory\\repositories\\models\\cloudservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3DC9F0B7-61D6-4538-9E51-CA7DC7E98778}|CertificateInventory\\CertificateInventory.csproj|c:\\src\\certificateinventory\\certificateinventory\\repositories\\models\\certificatemetadata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3DC9F0B7-61D6-4538-9E51-CA7DC7E98778}|CertificateInventory\\CertificateInventory.csproj|solutionrelative:certificateinventory\\repositories\\models\\certificatemetadata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3DC9F0B7-61D6-4538-9E51-CA7DC7E98778}|CertificateInventory\\CertificateInventory.csproj|c:\\src\\certificateinventory\\certificateinventory\\readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "RelativeMoniker": "D:0:0:{3DC9F0B7-61D6-4538-9E51-CA7DC7E98778}|CertificateInventory\\CertificateInventory.csproj|solutionrelative:certificateinventory\\readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3DC9F0B7-61D6-4538-9E51-CA7DC7E98778}|CertificateInventory\\CertificateInventory.csproj|c:\\src\\certificateinventory\\certificateinventory\\services\\iazuresubscription.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3DC9F0B7-61D6-4538-9E51-CA7DC7E98778}|CertificateInventory\\CertificateInventory.csproj|solutionrelative:certificateinventory\\services\\iazuresubscription.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3DC9F0B7-61D6-4538-9E51-CA7DC7E98778}|CertificateInventory\\CertificateInventory.csproj|c:\\src\\certificateinventory\\certificateinventory\\services\\iazuresecretcontainerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3DC9F0B7-61D6-4538-9E51-CA7DC7E98778}|CertificateInventory\\CertificateInventory.csproj|solutionrelative:certificateinventory\\services\\iazuresecretcontainerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3DC9F0B7-61D6-4538-9E51-CA7DC7E98778}|CertificateInventory\\CertificateInventory.csproj|c:\\src\\certificateinventory\\certificateinventory\\services\\iazureresourceservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3DC9F0B7-61D6-4538-9E51-CA7DC7E98778}|CertificateInventory\\CertificateInventory.csproj|solutionrelative:certificateinventory\\services\\iazureresourceservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3DC9F0B7-61D6-4538-9E51-CA7DC7E98778}|CertificateInventory\\CertificateInventory.csproj|c:\\src\\certificateinventory\\certificateinventory\\services\\iazuremanagementservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3DC9F0B7-61D6-4538-9E51-CA7DC7E98778}|CertificateInventory\\CertificateInventory.csproj|solutionrelative:certificateinventory\\services\\iazuremanagementservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3DC9F0B7-61D6-4538-9E51-CA7DC7E98778}|CertificateInventory\\CertificateInventory.csproj|c:\\src\\certificateinventory\\certificateinventory\\services\\iazurekeyvaultservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3DC9F0B7-61D6-4538-9E51-CA7DC7E98778}|CertificateInventory\\CertificateInventory.csproj|solutionrelative:certificateinventory\\services\\iazurekeyvaultservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3DC9F0B7-61D6-4538-9E51-CA7DC7E98778}|CertificateInventory\\CertificateInventory.csproj|c:\\src\\certificateinventory\\certificateinventory\\services\\iazurecloudservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3DC9F0B7-61D6-4538-9E51-CA7DC7E98778}|CertificateInventory\\CertificateInventory.csproj|solutionrelative:certificateinventory\\services\\iazurecloudservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3DC9F0B7-61D6-4538-9E51-CA7DC7E98778}|CertificateInventory\\CertificateInventory.csproj|c:\\src\\certificateinventory\\certificateinventory\\services\\iazurecertificateservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3DC9F0B7-61D6-4538-9E51-CA7DC7E98778}|CertificateInventory\\CertificateInventory.csproj|solutionrelative:certificateinventory\\services\\iazurecertificateservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3DC9F0B7-61D6-4538-9E51-CA7DC7E98778}|CertificateInventory\\CertificateInventory.csproj|c:\\src\\certificateinventory\\certificateinventory\\services\\iazureaccesstokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3DC9F0B7-61D6-4538-9E51-CA7DC7E98778}|CertificateInventory\\CertificateInventory.csproj|solutionrelative:certificateinventory\\services\\iazureaccesstokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3DC9F0B7-61D6-4538-9E51-CA7DC7E98778}|CertificateInventory\\CertificateInventory.csproj|c:\\src\\certificateinventory\\certificateinventory\\services\\httpexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3DC9F0B7-61D6-4538-9E51-CA7DC7E98778}|CertificateInventory\\CertificateInventory.csproj|solutionrelative:certificateinventory\\services\\httpexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3DC9F0B7-61D6-4538-9E51-CA7DC7E98778}|CertificateInventory\\CertificateInventory.csproj|c:\\src\\certificateinventory\\certificateinventory\\services\\azuresubscription.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3DC9F0B7-61D6-4538-9E51-CA7DC7E98778}|CertificateInventory\\CertificateInventory.csproj|solutionrelative:certificateinventory\\services\\azuresubscription.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3DC9F0B7-61D6-4538-9E51-CA7DC7E98778}|CertificateInventory\\CertificateInventory.csproj|c:\\src\\certificateinventory\\certificateinventory\\services\\azuresecretcontainerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3DC9F0B7-61D6-4538-9E51-CA7DC7E98778}|CertificateInventory\\CertificateInventory.csproj|solutionrelative:certificateinventory\\services\\azuresecretcontainerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3DC9F0B7-61D6-4538-9E51-CA7DC7E98778}|CertificateInventory\\CertificateInventory.csproj|c:\\src\\certificateinventory\\certificateinventory\\services\\azureresourceservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3DC9F0B7-61D6-4538-9E51-CA7DC7E98778}|CertificateInventory\\CertificateInventory.csproj|solutionrelative:certificateinventory\\services\\azureresourceservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3DC9F0B7-61D6-4538-9E51-CA7DC7E98778}|CertificateInventory\\CertificateInventory.csproj|c:\\src\\certificateinventory\\certificateinventory\\services\\azuremanagementservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3DC9F0B7-61D6-4538-9E51-CA7DC7E98778}|CertificateInventory\\CertificateInventory.csproj|solutionrelative:certificateinventory\\services\\azuremanagementservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3DC9F0B7-61D6-4538-9E51-CA7DC7E98778}|CertificateInventory\\CertificateInventory.csproj|c:\\src\\certificateinventory\\certificateinventory\\services\\azurekeyvaultservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3DC9F0B7-61D6-4538-9E51-CA7DC7E98778}|CertificateInventory\\CertificateInventory.csproj|solutionrelative:certificateinventory\\services\\azurekeyvaultservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3DC9F0B7-61D6-4538-9E51-CA7DC7E98778}|CertificateInventory\\CertificateInventory.csproj|c:\\src\\certificateinventory\\certificateinventory\\services\\azurecloudservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3DC9F0B7-61D6-4538-9E51-CA7DC7E98778}|CertificateInventory\\CertificateInventory.csproj|solutionrelative:certificateinventory\\services\\azurecloudservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3DC9F0B7-61D6-4538-9E51-CA7DC7E98778}|CertificateInventory\\CertificateInventory.csproj|c:\\src\\certificateinventory\\certificateinventory\\services\\azurecertificateservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3DC9F0B7-61D6-4538-9E51-CA7DC7E98778}|CertificateInventory\\CertificateInventory.csproj|solutionrelative:certificateinventory\\services\\azurecertificateservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3DC9F0B7-61D6-4538-9E51-CA7DC7E98778}|CertificateInventory\\CertificateInventory.csproj|c:\\src\\certificateinventory\\certificateinventory\\services\\azureaccesstokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3DC9F0B7-61D6-4538-9E51-CA7DC7E98778}|CertificateInventory\\CertificateInventory.csproj|solutionrelative:certificateinventory\\services\\azureaccesstokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "SecretMetadata.cs",
+              "DocumentMoniker": "C:\\src\\CertificateInventory\\CertificateInventory\\Repositories\\Models\\SecretMetadata.cs",
+              "RelativeDocumentMoniker": "CertificateInventory\\Repositories\\Models\\SecretMetadata.cs",
+              "ToolTip": "C:\\src\\CertificateInventory\\CertificateInventory\\Repositories\\Models\\SecretMetadata.cs",
+              "RelativeToolTip": "CertificateInventory\\Repositories\\Models\\SecretMetadata.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-26T18:34:48.732Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "SecretVersion.cs",
+              "DocumentMoniker": "C:\\src\\CertificateInventory\\CertificateInventory\\Repositories\\Models\\SecretVersion.cs",
+              "RelativeDocumentMoniker": "CertificateInventory\\Repositories\\Models\\SecretVersion.cs",
+              "ToolTip": "C:\\src\\CertificateInventory\\CertificateInventory\\Repositories\\Models\\SecretVersion.cs",
+              "RelativeToolTip": "CertificateInventory\\Repositories\\Models\\SecretVersion.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-26T18:34:49.997Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "SecretVersionAttributeContainer.cs",
+              "DocumentMoniker": "C:\\src\\CertificateInventory\\CertificateInventory\\Repositories\\Models\\SecretVersionAttributeContainer.cs",
+              "RelativeDocumentMoniker": "CertificateInventory\\Repositories\\Models\\SecretVersionAttributeContainer.cs",
+              "ToolTip": "C:\\src\\CertificateInventory\\CertificateInventory\\Repositories\\Models\\SecretVersionAttributeContainer.cs",
+              "RelativeToolTip": "CertificateInventory\\Repositories\\Models\\SecretVersionAttributeContainer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-26T18:34:51.254Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "SourceVault.cs",
+              "DocumentMoniker": "C:\\src\\CertificateInventory\\CertificateInventory\\Repositories\\Models\\SourceVault.cs",
+              "RelativeDocumentMoniker": "CertificateInventory\\Repositories\\Models\\SourceVault.cs",
+              "ToolTip": "C:\\src\\CertificateInventory\\CertificateInventory\\Repositories\\Models\\SourceVault.cs",
+              "RelativeToolTip": "CertificateInventory\\Repositories\\Models\\SourceVault.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-26T18:34:52.719Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "VaultCertificate.cs",
+              "DocumentMoniker": "C:\\src\\CertificateInventory\\CertificateInventory\\Repositories\\Models\\VaultCertificate.cs",
+              "RelativeDocumentMoniker": "CertificateInventory\\Repositories\\Models\\VaultCertificate.cs",
+              "ToolTip": "C:\\src\\CertificateInventory\\CertificateInventory\\Repositories\\Models\\VaultCertificate.cs",
+              "RelativeToolTip": "CertificateInventory\\Repositories\\Models\\VaultCertificate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-26T18:34:54.202Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CertificateRepository.cs",
+              "DocumentMoniker": "C:\\src\\CertificateInventory\\CertificateInventory\\Repositories\\CertificateRepository.cs",
+              "RelativeDocumentMoniker": "CertificateInventory\\Repositories\\CertificateRepository.cs",
+              "ToolTip": "C:\\src\\CertificateInventory\\CertificateInventory\\Repositories\\CertificateRepository.cs",
+              "RelativeToolTip": "CertificateInventory\\Repositories\\CertificateRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-26T18:33:33.385Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ICertificateRepository.cs",
+              "DocumentMoniker": "C:\\src\\CertificateInventory\\CertificateInventory\\Repositories\\ICertificateRepository.cs",
+              "RelativeDocumentMoniker": "CertificateInventory\\Repositories\\ICertificateRepository.cs",
+              "ToolTip": "C:\\src\\CertificateInventory\\CertificateInventory\\Repositories\\ICertificateRepository.cs",
+              "RelativeToolTip": "CertificateInventory\\Repositories\\ICertificateRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-26T18:33:48.676Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "InventoryDbContext.cs",
+              "DocumentMoniker": "C:\\src\\CertificateInventory\\CertificateInventory\\Repositories\\InventoryDbContext.cs",
+              "RelativeDocumentMoniker": "CertificateInventory\\Repositories\\InventoryDbContext.cs",
+              "ToolTip": "C:\\src\\CertificateInventory\\CertificateInventory\\Repositories\\InventoryDbContext.cs",
+              "RelativeToolTip": "CertificateInventory\\Repositories\\InventoryDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-26T18:33:51.174Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CloudServicesCertificateInventory.cs",
+              "DocumentMoniker": "C:\\src\\CertificateInventory\\CertificateInventory\\CloudServicesCertificateInventory.cs",
+              "RelativeDocumentMoniker": "CertificateInventory\\CloudServicesCertificateInventory.cs",
+              "ToolTip": "C:\\src\\CertificateInventory\\CertificateInventory\\CloudServicesCertificateInventory.cs",
+              "RelativeToolTip": "CertificateInventory\\CloudServicesCertificateInventory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-26T18:27:01.931Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "SecretContainer.cs",
+              "DocumentMoniker": "C:\\src\\CertificateInventory\\CertificateInventory\\Repositories\\Models\\SecretContainer.cs",
+              "RelativeDocumentMoniker": "CertificateInventory\\Repositories\\Models\\SecretContainer.cs",
+              "ToolTip": "C:\\src\\CertificateInventory\\CertificateInventory\\Repositories\\Models\\SecretContainer.cs",
+              "RelativeToolTip": "CertificateInventory\\Repositories\\Models\\SecretContainer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-26T18:34:47.791Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "SecretAttributes.cs",
+              "DocumentMoniker": "C:\\src\\CertificateInventory\\CertificateInventory\\Repositories\\Models\\SecretAttributes.cs",
+              "RelativeDocumentMoniker": "CertificateInventory\\Repositories\\Models\\SecretAttributes.cs",
+              "ToolTip": "C:\\src\\CertificateInventory\\CertificateInventory\\Repositories\\Models\\SecretAttributes.cs",
+              "RelativeToolTip": "CertificateInventory\\Repositories\\Models\\SecretAttributes.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-26T18:34:46.5Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "KeyVaultCollection.cs",
+              "DocumentMoniker": "C:\\src\\CertificateInventory\\CertificateInventory\\Repositories\\Models\\KeyVaultCollection.cs",
+              "RelativeDocumentMoniker": "CertificateInventory\\Repositories\\Models\\KeyVaultCollection.cs",
+              "ToolTip": "C:\\src\\CertificateInventory\\CertificateInventory\\Repositories\\Models\\KeyVaultCollection.cs",
+              "RelativeToolTip": "CertificateInventory\\Repositories\\Models\\KeyVaultCollection.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-26T18:34:45.547Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "KeyVault.cs",
+              "DocumentMoniker": "C:\\src\\CertificateInventory\\CertificateInventory\\Repositories\\Models\\KeyVault.cs",
+              "RelativeDocumentMoniker": "CertificateInventory\\Repositories\\Models\\KeyVault.cs",
+              "ToolTip": "C:\\src\\CertificateInventory\\CertificateInventory\\Repositories\\Models\\KeyVault.cs",
+              "RelativeToolTip": "CertificateInventory\\Repositories\\Models\\KeyVault.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-26T18:34:44.538Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "CloudServiceCollection.cs",
+              "DocumentMoniker": "C:\\src\\CertificateInventory\\CertificateInventory\\Repositories\\Models\\CloudServiceCollection.cs",
+              "RelativeDocumentMoniker": "CertificateInventory\\Repositories\\Models\\CloudServiceCollection.cs",
+              "ToolTip": "C:\\src\\CertificateInventory\\CertificateInventory\\Repositories\\Models\\CloudServiceCollection.cs",
+              "RelativeToolTip": "CertificateInventory\\Repositories\\Models\\CloudServiceCollection.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-26T18:34:43.598Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "CloudService.cs",
+              "DocumentMoniker": "C:\\src\\CertificateInventory\\CertificateInventory\\Repositories\\Models\\CloudService.cs",
+              "RelativeDocumentMoniker": "CertificateInventory\\Repositories\\Models\\CloudService.cs",
+              "ToolTip": "C:\\src\\CertificateInventory\\CertificateInventory\\Repositories\\Models\\CloudService.cs",
+              "RelativeToolTip": "CertificateInventory\\Repositories\\Models\\CloudService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-26T18:34:42.258Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "CertificateMetadata.cs",
+              "DocumentMoniker": "C:\\src\\CertificateInventory\\CertificateInventory\\Repositories\\Models\\CertificateMetadata.cs",
+              "RelativeDocumentMoniker": "CertificateInventory\\Repositories\\Models\\CertificateMetadata.cs",
+              "ToolTip": "C:\\src\\CertificateInventory\\CertificateInventory\\Repositories\\Models\\CertificateMetadata.cs",
+              "RelativeToolTip": "CertificateInventory\\Repositories\\Models\\CertificateMetadata.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-26T18:34:41.032Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "readme.md",
+              "DocumentMoniker": "C:\\src\\CertificateInventory\\CertificateInventory\\readme.md",
+              "RelativeDocumentMoniker": "CertificateInventory\\readme.md",
+              "ToolTip": "C:\\src\\CertificateInventory\\CertificateInventory\\readme.md",
+              "RelativeToolTip": "CertificateInventory\\readme.md",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2024-09-26T18:37:21.689Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "IAzureSubscription.cs",
+              "DocumentMoniker": "C:\\src\\CertificateInventory\\CertificateInventory\\Services\\IAzureSubscription.cs",
+              "RelativeDocumentMoniker": "CertificateInventory\\Services\\IAzureSubscription.cs",
+              "ToolTip": "C:\\src\\CertificateInventory\\CertificateInventory\\Services\\IAzureSubscription.cs",
+              "RelativeToolTip": "CertificateInventory\\Services\\IAzureSubscription.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-26T18:32:51.458Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "IAzureSecretContainerService.cs",
+              "DocumentMoniker": "C:\\src\\CertificateInventory\\CertificateInventory\\Services\\IAzureSecretContainerService.cs",
+              "RelativeDocumentMoniker": "CertificateInventory\\Services\\IAzureSecretContainerService.cs",
+              "ToolTip": "C:\\src\\CertificateInventory\\CertificateInventory\\Services\\IAzureSecretContainerService.cs",
+              "RelativeToolTip": "CertificateInventory\\Services\\IAzureSecretContainerService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-26T18:32:48.589Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "IAzureResourceService.cs",
+              "DocumentMoniker": "C:\\src\\CertificateInventory\\CertificateInventory\\Services\\IAzureResourceService.cs",
+              "RelativeDocumentMoniker": "CertificateInventory\\Services\\IAzureResourceService.cs",
+              "ToolTip": "C:\\src\\CertificateInventory\\CertificateInventory\\Services\\IAzureResourceService.cs",
+              "RelativeToolTip": "CertificateInventory\\Services\\IAzureResourceService.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAYAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-26T18:32:47.671Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "IAzureManagementService.cs",
+              "DocumentMoniker": "C:\\src\\CertificateInventory\\CertificateInventory\\Services\\IAzureManagementService.cs",
+              "RelativeDocumentMoniker": "CertificateInventory\\Services\\IAzureManagementService.cs",
+              "ToolTip": "C:\\src\\CertificateInventory\\CertificateInventory\\Services\\IAzureManagementService.cs",
+              "RelativeToolTip": "CertificateInventory\\Services\\IAzureManagementService.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAAAAQAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-26T18:32:45.477Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "IAzureKeyVaultService.cs",
+              "DocumentMoniker": "C:\\src\\CertificateInventory\\CertificateInventory\\Services\\IAzureKeyVaultService.cs",
+              "RelativeDocumentMoniker": "CertificateInventory\\Services\\IAzureKeyVaultService.cs",
+              "ToolTip": "C:\\src\\CertificateInventory\\CertificateInventory\\Services\\IAzureKeyVaultService.cs",
+              "RelativeToolTip": "CertificateInventory\\Services\\IAzureKeyVaultService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-26T18:32:43.102Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "IAzureCloudService.cs",
+              "DocumentMoniker": "C:\\src\\CertificateInventory\\CertificateInventory\\Services\\IAzureCloudService.cs",
+              "RelativeDocumentMoniker": "CertificateInventory\\Services\\IAzureCloudService.cs",
+              "ToolTip": "C:\\src\\CertificateInventory\\CertificateInventory\\Services\\IAzureCloudService.cs",
+              "RelativeToolTip": "CertificateInventory\\Services\\IAzureCloudService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-26T18:32:40.197Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "IAzureCertificateService.cs",
+              "DocumentMoniker": "C:\\src\\CertificateInventory\\CertificateInventory\\Services\\IAzureCertificateService.cs",
+              "RelativeDocumentMoniker": "CertificateInventory\\Services\\IAzureCertificateService.cs",
+              "ToolTip": "C:\\src\\CertificateInventory\\CertificateInventory\\Services\\IAzureCertificateService.cs",
+              "RelativeToolTip": "CertificateInventory\\Services\\IAzureCertificateService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-26T18:32:37.176Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "IAzureAccessTokenService.cs",
+              "DocumentMoniker": "C:\\src\\CertificateInventory\\CertificateInventory\\Services\\IAzureAccessTokenService.cs",
+              "RelativeDocumentMoniker": "CertificateInventory\\Services\\IAzureAccessTokenService.cs",
+              "ToolTip": "C:\\src\\CertificateInventory\\CertificateInventory\\Services\\IAzureAccessTokenService.cs",
+              "RelativeToolTip": "CertificateInventory\\Services\\IAzureAccessTokenService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-26T18:32:34.086Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "HttpException.cs",
+              "DocumentMoniker": "C:\\src\\CertificateInventory\\CertificateInventory\\Services\\HttpException.cs",
+              "RelativeDocumentMoniker": "CertificateInventory\\Services\\HttpException.cs",
+              "ToolTip": "C:\\src\\CertificateInventory\\CertificateInventory\\Services\\HttpException.cs",
+              "RelativeToolTip": "CertificateInventory\\Services\\HttpException.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAAAAcAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-26T18:32:32.64Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "AzureSubscription.cs",
+              "DocumentMoniker": "C:\\src\\CertificateInventory\\CertificateInventory\\Services\\AzureSubscription.cs",
+              "RelativeDocumentMoniker": "CertificateInventory\\Services\\AzureSubscription.cs",
+              "ToolTip": "C:\\src\\CertificateInventory\\CertificateInventory\\Services\\AzureSubscription.cs",
+              "RelativeToolTip": "CertificateInventory\\Services\\AzureSubscription.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-26T18:32:29.765Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "AzureSecretContainerService.cs",
+              "DocumentMoniker": "C:\\src\\CertificateInventory\\CertificateInventory\\Services\\AzureSecretContainerService.cs",
+              "RelativeDocumentMoniker": "CertificateInventory\\Services\\AzureSecretContainerService.cs",
+              "ToolTip": "C:\\src\\CertificateInventory\\CertificateInventory\\Services\\AzureSecretContainerService.cs",
+              "RelativeToolTip": "CertificateInventory\\Services\\AzureSecretContainerService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-26T18:32:26.877Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "AzureResourceService.cs",
+              "DocumentMoniker": "C:\\src\\CertificateInventory\\CertificateInventory\\Services\\AzureResourceService.cs",
+              "RelativeDocumentMoniker": "CertificateInventory\\Services\\AzureResourceService.cs",
+              "ToolTip": "C:\\src\\CertificateInventory\\CertificateInventory\\Services\\AzureResourceService.cs",
+              "RelativeToolTip": "CertificateInventory\\Services\\AzureResourceService.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAAAUAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-26T18:32:25.442Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "AzureManagementService.cs",
+              "DocumentMoniker": "C:\\src\\CertificateInventory\\CertificateInventory\\Services\\AzureManagementService.cs",
+              "RelativeDocumentMoniker": "CertificateInventory\\Services\\AzureManagementService.cs",
+              "ToolTip": "C:\\src\\CertificateInventory\\CertificateInventory\\Services\\AzureManagementService.cs",
+              "RelativeToolTip": "CertificateInventory\\Services\\AzureManagementService.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAAAAoAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-26T18:32:23.17Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "AzureKeyVaultService.cs",
+              "DocumentMoniker": "C:\\src\\CertificateInventory\\CertificateInventory\\Services\\AzureKeyVaultService.cs",
+              "RelativeDocumentMoniker": "CertificateInventory\\Services\\AzureKeyVaultService.cs",
+              "ToolTip": "C:\\src\\CertificateInventory\\CertificateInventory\\Services\\AzureKeyVaultService.cs",
+              "RelativeToolTip": "CertificateInventory\\Services\\AzureKeyVaultService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-26T18:32:19.371Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "AzureCloudService.cs",
+              "DocumentMoniker": "C:\\src\\CertificateInventory\\CertificateInventory\\Services\\AzureCloudService.cs",
+              "RelativeDocumentMoniker": "CertificateInventory\\Services\\AzureCloudService.cs",
+              "ToolTip": "C:\\src\\CertificateInventory\\CertificateInventory\\Services\\AzureCloudService.cs",
+              "RelativeToolTip": "CertificateInventory\\Services\\AzureCloudService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-26T18:32:16.299Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "AzureCertificateService.cs",
+              "DocumentMoniker": "C:\\src\\CertificateInventory\\CertificateInventory\\Services\\AzureCertificateService.cs",
+              "RelativeDocumentMoniker": "CertificateInventory\\Services\\AzureCertificateService.cs",
+              "ToolTip": "C:\\src\\CertificateInventory\\CertificateInventory\\Services\\AzureCertificateService.cs",
+              "RelativeToolTip": "CertificateInventory\\Services\\AzureCertificateService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-26T18:32:12.236Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "AzureAccessTokenService.cs",
+              "DocumentMoniker": "C:\\src\\CertificateInventory\\CertificateInventory\\Services\\AzureAccessTokenService.cs",
+              "RelativeDocumentMoniker": "CertificateInventory\\Services\\AzureAccessTokenService.cs",
+              "ToolTip": "C:\\src\\CertificateInventory\\CertificateInventory\\Services\\AzureAccessTokenService.cs",
+              "RelativeToolTip": "CertificateInventory\\Services\\AzureAccessTokenService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-26T18:31:23.587Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
